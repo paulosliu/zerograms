@@ -1,4 +1,4 @@
-# instachat
+# zerograms
 
 Instagram client that doesn't let you look at pictures. Only chat and accept follows.
 
