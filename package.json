@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-packager . 'instachat' --icon './unnamed.icns'"
+    "build": "electron-packager . 'zerograms' --icon './unnamed.icns'"
   },
   "author": "",
   "license": "ISC",
