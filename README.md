@@ -5,4 +5,4 @@ Instagram client that doesn't let you look at pictures. Only chat and accept fol
 ## Running / Building
 
 Running: npm run start
-Build: npx electron-packager . "instachat" --icon "./unnamed.icns"
+Build: npm run build

@@ -4,7 +4,8 @@
   "description": "instagram chat",
   "main": "index.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "electron-packager . 'instachat' --icon './unnamed.icns'"
   },
   "author": "",
   "license": "ISC",
